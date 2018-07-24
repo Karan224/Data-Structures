@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532451373 source:c:\users\karan\desktop\data structures\doubly linked list\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
