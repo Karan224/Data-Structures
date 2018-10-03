@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533049464 source:c:\users\karan\desktop\data structures\array operations\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
