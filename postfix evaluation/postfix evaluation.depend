@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1535608365 source:c:\users\karan\desktop\data structures\postfix evaluation\main.cpp
+	<iostream>
+	<math.h>
+	<string.h>
+
