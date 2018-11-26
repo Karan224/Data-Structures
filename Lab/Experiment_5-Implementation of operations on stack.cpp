@@ -19,14 +19,14 @@ while(choice !=4)
 cin>> choice;
 switch(choice)
         {
-            case 1:// cout<<”Enter the element to push”;
+            case 1:// cout<<â€Enter the element to pushâ€;
 cin>>val;
 push(val);
 break;
-            case 2: // cout<<”Enter the element to pop”;
+            case 2: // cout<<â€Enter the element to popâ€;
 pop();
 break;
-            case 3:// cout<<”Display the stack elements”;
+            case 3:// cout<<â€Display the stack elementsâ€;
 display();
 break;
 default:
@@ -57,4 +57,4 @@ void display()
 cout<<Stack[i]<<" ";
 cout<<endl;
 }
-
+
