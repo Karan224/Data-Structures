@@ -28,4 +28,4 @@ for(i=0;i<n;i++)
 if(flag==0)
     cout<<"\nElement not found\n";
 return 0;
-}
+}
